@@ -79,9 +79,9 @@
 
 # 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dubeycode&theme=tokyonight" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=dubeycode&theme=tokyonight" /> -->
+<!-- </p> -->
 
 ---
 
