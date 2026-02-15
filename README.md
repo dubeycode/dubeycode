@@ -35,12 +35,6 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,typescript" />
 </p>
 
-- Python  
-- JavaScript  
-- C  
-- C++  
-- TypeScript  
-
 ---
 
 ## 🎨 Frontend Development
@@ -48,14 +42,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" />
 </p>
-
-- HTML  
-- CSS  
-- React  
-- Tailwind CSS  
-- Bootstrap  
-- Vite  
-
 ---
 
 ## ⚙️ Backend Development
@@ -63,9 +49,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
-- Node.js  
-- Express.js  
 
 ---
 
@@ -75,11 +58,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
 </p>
 
-- MongoDB  
-- PostgreSQL  
-- MySQL  
-- SQLite  
-
 ---
 
 ## 🧰 Tools & Platforms
@@ -87,11 +65,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
-
-- Git  
-- GitHub  
-- Postman  
-- Refine  
 
 ---
 
