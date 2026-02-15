@@ -1,16 +1,125 @@
-## Hi there 👋
+<!-- Animated Coding Boy GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
+</p>
 
-<!--
-**dubeycode/dubeycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi , I'm Satyam Dubey</h1>
+<h3 align="center">Full Stack Developer | Python & MERN Stack Enthusiast | Problem Solver</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/satyam-dubey-863a68304/">
+    <img src="https://img.shields.io/badge/LinkedIn-Satyam%20Dubey-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dubeycode&style=for-the-badge&color=blue" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 B.Sc IT Student  
+- 💻 Full Stack Developer  
+- 🚀 Passionate about Backend Development & System Design  
+- 📚 Currently learning Advanced Web Development & DSA  
+- 🔥 Love building real-world projects  
+
+---
+
+# 🛠️ Tech Stack
+
+---
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,typescript" />
+</p>
+
+- Python  
+- JavaScript  
+- C  
+- C++  
+- TypeScript  
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" />
+</p>
+
+- HTML  
+- CSS  
+- React  
+- Tailwind CSS  
+- Bootstrap  
+- Vite  
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- Node.js  
+- Express.js  
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
+</p>
+
+- MongoDB  
+- PostgreSQL  
+- MySQL  
+- SQLite  
+
+---
+
+## 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+- Git  
+- GitHub  
+- Postman  
+- Refine  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dubeycode&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeycode&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dubeycode&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/satyam-dubey-863a68304/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐ From [Satyam Dubey](https://github.com/dubeycode)
