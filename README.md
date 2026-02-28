@@ -85,6 +85,13 @@
 
 ---
 
+
+## ☕ Support My Work
+
+<a href="https://buymeacoffee.com/satyamdubey" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
+</a>
+
 # 🌐 Connect With Me
 
 <p align="center">
