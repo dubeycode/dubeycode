@@ -40,7 +40,7 @@
 ## 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite,Nextjs" />
 </p>
 ---
 
